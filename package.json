@@ -1,0 +1,23 @@
+{
+  "name": "pagination.js",
+  "version": "0.0.1",
+  "description": "Pageination helper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GregoryPotdevin/pagination.js.git"
+  },
+  "keywords": [
+    "Javascript",
+    "Pagination"
+  ],
+  "author": "Gregory Potdevin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GregoryPotdevin/pagination.js/issues"
+  },
+  "homepage": "https://github.com/GregoryPotdevin/pagination.js#readme"
+}

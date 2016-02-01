@@ -1,4 +1,4 @@
-export function generatePages(currentPage, totalPages, options={}){
+export default function generatePages(currentPage, totalPages, options={}){
   const pageScope = options.pageScope || 3
   let pages = [];
 
