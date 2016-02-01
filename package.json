@@ -4,7 +4,7 @@
   "description": "Pageination helper",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jasmine"
   },
   "repository": {
     "type": "git",
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/GregoryPotdevin/pagination.js/issues"
   },
-  "homepage": "https://github.com/GregoryPotdevin/pagination.js#readme"
+  "homepage": "https://github.com/GregoryPotdevin/pagination.js#readme",
+  "devDependencies": {
+    "jasmine": "^2.4.1"
+  }
 }
